@@ -120,4 +120,4 @@ pip install pillow rich
 
 ## License
 
-This project appears to be open source. Check the repository for specific license terms.
+GPL-3.0 license
